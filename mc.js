@@ -8,7 +8,7 @@ let allMusic = [
       src: "/assets/Dusktill.webm"
     },
     {
-      name: "Unstopable",
+      name: "Unstoppable",
       artist: "Sia",
       img: "music-2",
       src: "music-2"
@@ -26,7 +26,7 @@ let allMusic = [
       src: "music-4"
     },
     {
-      name: "I'm So Sorry",
+      name: "Sorry",
       artist: "Justin Bieber",
       img: "music-5",
       src: "music-5"
