@@ -15,6 +15,7 @@ closemoreMusic = musicList.querySelector("#close");
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
 
+
 window.addEventListener("load", ()=>{
   loadMusic(musicIndex);
   playingSong(); 
